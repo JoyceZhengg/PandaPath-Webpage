@@ -1,0 +1,54 @@
+DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Xuxuan (Joyce) Zheng's Personal Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #555;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+<header>
+    <h1>Xuxuan (Joyce) Zheng</h1>
+</header>
+<section>
+    <h2>About Me</h2>
+    <p>
+        I am currently a high school Junior in Texas with a passion for Computer Science,
+        Machine Learning, and Big Data Analysis. My goal is to apply these skills to make
+        a positive impact on real-life problems and to uplift my community.
+    </p>
+</section>
+<section>
+    <h2>Interests and Hobbies</h2>
+    <ul>
+        <li>Computer Science</li>
+        <li>Machine Learning</li>
+        <li>Big Data Analysis</li>
+        <li>Playing the Viola</li>
+        <li>Running</li>
+        <li>Baking</li>
+    </ul>
+</section>
+<footer>
+    <p>Contact me at: joycezhengxzh@gmail.com</p>
+</footer>
+</body>
+</html>
